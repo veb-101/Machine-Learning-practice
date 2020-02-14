@@ -16,4 +16,8 @@ Majority of the code in this repository comes from the original repository by [A
     - [End-to-End Ml Project](https://nbviewer.jupyter.org/github/veb-101/Machine-Learning-practice/blob/master/Chapter%202/End-to-End%20ML%20Project.ipynb)
 
   - Chapter 3: Classification
+
     - [Classsification](https://nbviewer.jupyter.org/github/veb-101/Machine-Learning-practice/blob/master/Chapter%203/Classification.ipynb)
+
+  - Chapter 4: Training Linear Models
+    - [linear_models](https://nbviewer.jupyter.org/github/veb-101/Machine-Learning-practice/blob/master/Chapter%204/linear_models.ipynb)
