@@ -21,3 +21,6 @@ Majority of the code in this repository comes from the original repository by [A
 
   - Chapter 4: Training Linear Models
     - [linear_models](https://nbviewer.jupyter.org/github/veb-101/Machine-Learning-practice/blob/master/Chapter%204/linear_models.ipynb)
+
+  - Chapter 5: Support Vector Machines
+    - [SVM](https://nbviewer.jupyter.org/github/veb-101/Machine-Learning-practice/blob/master/Chapter%205/support%20vector%20machines.ipynb)
