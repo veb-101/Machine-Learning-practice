@@ -20,13 +20,16 @@ Majority of the code in this repository comes from the original repository by [A
     - [Classsification](https://nbviewer.jupyter.org/github/veb-101/Machine-Learning-practice/blob/master/Chapter%203/Classification.ipynb)
 
   - Chapter 4: Training Linear Models
+
     - [linear_models](https://nbviewer.jupyter.org/github/veb-101/Machine-Learning-practice/blob/master/Chapter%204/linear_models.ipynb)
 
   - Chapter 5: Support Vector Machines
-    - [SVM](https://nbviewer.jupyter.org/github/veb-101/Machine-Learning-practice/blob/master/Chapter%205/support%20vector%20machines.ipynb)
-  
-  - Chapter 5: Decision Trees
+
     - [SVM](https://nbviewer.jupyter.org/github/veb-101/Machine-Learning-practice/blob/master/Chapter%205/support%20vector%20machines.ipynb)
 
   - Chapter 7: Ensemble Learning
+
     - [Ensemble](https://nbviewer.jupyter.org/github/veb-101/Machine-Learning-practice/blob/master/Chapter%207/Ensemble%20learning.ipynb)
+
+  - Chapter 8: Dimensionality Reduction
+    - [dim_reduction](https://nbviewer.jupyter.org/github/veb-101/Machine-Learning-practice/blob/master/Chapter%208/dim_reduction.ipynb)
