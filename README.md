@@ -27,6 +27,10 @@ Majority of the code in this repository comes from the original repository by [A
 
     - [SVM](https://nbviewer.jupyter.org/github/veb-101/Machine-Learning-practice/blob/master/Chapter%205/support%20vector%20machines.ipynb)
 
+  - Chapter 6: Decision Tree Learning
+
+    - [decision_tree](https://nbviewer.jupyter.org/github/veb-101/Machine-Learning-practice/blob/master/Chapter%206/decision_trees.ipynb)
+
   - Chapter 7: Ensemble Learning
 
     - [Ensemble](https://nbviewer.jupyter.org/github/veb-101/Machine-Learning-practice/blob/master/Chapter%207/Ensemble%20learning.ipynb)
