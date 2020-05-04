@@ -2,7 +2,7 @@
 
 ---
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CFMTech/jupytext_papermill_post/master) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/veb-101/Machine-Learning-practice/blob/master/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/veb-101/Machine-Learning-practice/master) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/veb-101/Machine-Learning-practice/blob/master/)
 
 This repository is for my own learning purposes.
 Majority of the code in this repository comes from the original repository by [Aurélien Géron](https://github.com/ageron/handson-ml2)
