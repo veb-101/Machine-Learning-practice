@@ -2,10 +2,12 @@
 
 ---
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CFMTech/jupytext_papermill_post/master) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/veb-101/Machine-Learning-practice/blob/master/)
+
 This repository is for my own learning purposes.
 Majority of the code in this repository comes from the original repository by [Aurélien Géron](https://github.com/ageron/handson-ml2)
 
-| Sr. No. | Chapter                             | Notebook                                                                                                                                             |
+| Sr. No. | Chapter                             | View                                                                                                                                                 |
 | ------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1       | The Machine Learning Landscape      | [notebook](https://nbviewer.jupyter.org/github/veb-101/Machine-Learning-practice/blob/master/Chapter%201/The%20Machine%20Learning%20Landscape.ipynb) |
 | 2       | End-to-End Machine Learning Project | [notebook](https://nbviewer.jupyter.org/github/veb-101/Machine-Learning-practice/blob/master/Chapter%202/End-to-End%20ML%20Project.ipynb)            |
